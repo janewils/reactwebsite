@@ -1,0 +1,67 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:pink;
+    color: navy;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    ;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.about-me {
+    width: 100%;
+    text-align: center;
+}
+
+.featured-stories {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #0074d9;
+}
+
+@media screen and (min-width: 768px) {
+    .about-me {
+        width: 30%;
+        text-align: left;
+    }
+
+    .featured-stories {
+        width: 70%;
+    }
+}

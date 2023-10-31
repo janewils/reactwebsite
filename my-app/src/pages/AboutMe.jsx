@@ -5,7 +5,7 @@ const AboutMe = ()=> {
       <div className="AboutMe"> 
             <div class="about-me">
                 <h2>About Me</h2>
-                <p>Jane Wilson is a senior at UNC Chapel Hill passionate about building community, learning, and writing about contemporary religion and folk music. She also enjoys spending time outdoors.</p>
+                <p>Hey! I'm a senior at UNC Chapel Hill. I'm passionate about building community and writing about religion and music, and spending time outdoors.</p>
             </div>
             <div class="featured-stories">
                 <h2>Featured Stories</h2>

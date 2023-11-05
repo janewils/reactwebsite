@@ -5,7 +5,7 @@ import AboutMe from './pages/AboutMe';
 function App() {
   return (
     <div className="App">
-      <AboutMe></AboutMe>
+      <p> home page</p>
     </div>
   );
 }
